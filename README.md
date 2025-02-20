@@ -50,6 +50,10 @@ Algumas ferramentas populares para documentar APIs incluem:
 
 ## Exemplo de um endpoint documentado usando OpenAPI (Swagger)
 
+<img src="https://github.com/JosiTubaroski/Documento_API/blob/main/img/05_Documento_Yaml.png"/>
+
+
+
 
 
 
