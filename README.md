@@ -52,6 +52,14 @@ Algumas ferramentas populares para documentar APIs incluem:
 
 <img src="https://github.com/JosiTubaroski/Documento_API/blob/main/img/05_Documento_Yaml.png"/>
 
+Esse trecho documenta um endpoint /users que retorna uma lista de usuários. Com essa informação, qualquer desenvolvedor pode saber como fazer a requisição corretamente.
+
+# Conclusão
+
+A documentação de uma API é essencial para garantir que outros desenvolvedores consigam usá-la de forma eficiente e sem erros. Ela melhora a produtividade, facilita a manutenção e permite que a API seja integrada de forma rápida e padronizada. 
+
+
+
 
 
 
